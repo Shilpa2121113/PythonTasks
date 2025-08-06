@@ -15,7 +15,7 @@ print("Subtraction:", subtraction)
 print("Multiplication:", multiplication)
 print("Division:", division)
 
-****************Task 2: Create a Personalized Greeting**********
+****************Task 2: Create a Personalized Greeting*********************
 
 first_name = input("Enter your first name: ")
 last_name = input("Enter your last name: ")
