@@ -1,15 +1,15 @@
 #Task 1: Perform Basic Mathematical Operations
-Step 1: Take two numbers as input
+#Step 1: Take two numbers as input
 num1 = int(input("Enter the first number: "))
 num2 = int(input("Enter the second number: "))
 
-Step 2: Perform basic operations
+#Step 2: Perform basic operations
 addition = num1 + num2
 subtraction = num1 - num2
 multiplication = num1 * num2
 division = num1 / num2
 
-Step 3: Display the results
+#Step 3: Display the results
 print("\nResults:")
 print("Addition:", addition)
 print("Subtraction:", subtraction)
