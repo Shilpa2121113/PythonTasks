@@ -1,4 +1,4 @@
-**************8Task 1: Perform Basic Mathematical Operations*******************
+**************Task 1: Perform Basic Mathematical Operations*******************
 
 # Step 1: Take two numbers as input
 num1 = int(input("Enter the first number: "))
